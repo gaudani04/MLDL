@@ -1,0 +1,6 @@
+age,gender,risk,probability,Date,Age,Gender,Systolic BP,Diastolic BP,Cholesterol,Glucose,Smoking,Alcohol,Active,Risk,Probability
+45.0,Male,Low Risk,26.09,,,,,,,,,,,,
+,,,,2026-01-11 21:36,45.0,Male,120.0,80.0,Normal,Normal,No,No,Yes,Low Risk,26.09
+,,,,2026-01-11 21:45,45.0,Male,120.0,80.0,Normal,Normal,No,No,Yes,Low Risk,26.09
+,,,,2026-01-12 12:42,45.0,Male,120.0,80.0,Normal,Normal,No,No,Yes,Low Risk,26.09
+,,,,2026-01-12 13:00,20.0,Female,200.0,80.0,Normal,Normal,No,No,Yes,High Risk,94.5
